@@ -1,0 +1,3 @@
+# script in linux/mac ~/bin directory to plot Raw NSF watch output files
+# Glen Langston, 2017 August 23
+python ~/bin/r.py "$@"
